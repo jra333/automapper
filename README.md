@@ -1,6 +1,6 @@
 # AUTOMAPPER DEMO VERSION
 
-Automapper is a Streamlit-based web application designed to automate the processing, review, and archival of file submissions using AI-powered predictions. It integrates with Snowflake for data storage, staging, and user authentication, while leveraging a fine-tuned T5 model from Hugging Face Transformers for generating business-critical mappings.
+[Automapper](https://github.com/jra333/automapper/tree/main/automapper_app_demo) is a Streamlit-based web application designed to automate the processing, review, and archival of file submissions using AI-powered predictions. It integrates with Snowflake for data storage, staging, and user authentication, while leveraging a fine-tuned T5 model from Hugging Face Transformers for generating business-critical mappings.
 
 **SOME CODE AND PROCESSES HAVE BEEN REDACTED/ALTERED FOR PRIVACY AND WILL NOT BE UPDATED.**
 
