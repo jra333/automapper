@@ -1,0 +1,20 @@
+# Core dependencies
+streamlit>=1.29.0
+pandas>=2.1.0
+transformers>=4.36.0
+torch>=2.1.0
+sentencepiece
+
+# Authentication
+python-dotenv
+pyyaml
+
+# File handling
+openpyxl>=3.1.0  # For Excel file support
+
+# Data processing
+pyarrow>=14.0.1  # Required by streamlit for efficient data handling
+
+# Snowflake specific
+# cryptography
+
